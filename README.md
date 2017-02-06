@@ -1,5 +1,7 @@
 ## OpenShift Apache Solr 4.10.4 Quickstart
 
+[![DEPLOY ON OpenShift](http://launch-shifter.rhcloud.com/launch/DEPLOY ON.svg)](https://openshift.redhat.com/app/console/application_type/custom?&cartridges[]=diy-0.1&initial_git_url=https://github.com/openshift-warrior/solr.git&name=Solr)
+
 This is an OpenShift Quickstart repository to help you get Apache Solr 4.10.4 up and running quickly.
 
 ### Installation
